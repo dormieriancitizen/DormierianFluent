@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16px"
+   height="16px"
+   version="1.1"
+   viewBox="0 0 16 16"
+   id="svg1"
+   sodipodi:docname="arrow-down-tiny-symbolic.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1"
+       nodesatellites_param="F,0,0,1,0,0,0,7 @ F,0,0,1,0,0,0,7 @ F,0,0,1,0,0,0,7 @ F,0,0,1,0,0,0,7 @ F,0,0,1,0,0,0,7 @ F,0,0,1,0,0,0,7"
+       radius="0"
+       unit="px"
+       method="bezier"
+       mode="F"
+       chamfer_steps="7"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="64"
+     inkscape:cx="7.1015625"
+     inkscape:cy="9"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 5.052328,6.5572507 c -0.088808,0 -0.1775876,0.033735 -0.2456404,0.1017804 -0.1360986,0.1360986 -0.1360986,0.3551752 0,0.4912739 l 2.9231986,2.921878 0.024428,0.02579 c 0.1360986,0.136099 0.3551752,0.136099 0.4912738,0 0.00851,-0.0085 0.016985,-0.01667 0.024428,-0.02579 l 2.923198,-2.921878 c 0.136099,-0.1360987 0.136099,-0.3551753 0,-0.4912739 -0.136099,-0.1360986 -0.355176,-0.1360986 -0.491274,-2e-7 L 7.9999093,9.3610614 5.2978788,6.6590309 C 5.2298302,6.5909823 5.1410461,6.5572505 5.0522384,6.5572505 Z"
+     fill="#dedede"
+     id="path1"
+     style="stroke-width:0.694842" />
+</svg>
